@@ -1,0 +1,17 @@
+#logobranca {
+    width: 100px;
+    margin-left: 20px;
+}
+
+#header {
+    background-color: coral;
+}
+
+#links {
+    margin-top: 5px;
+    text-align: center;
+}
+
+#pratos {
+    width: 10px;
+}
