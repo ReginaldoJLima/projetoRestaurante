@@ -48,6 +48,9 @@ include_once "paginas/include/header.php";
             case 'valideQcode':
                 include "paginas/valideQcode.php";
                 break;
+            case 'pedidos':
+                include "paginas/pedidos.php";
+                break;
             default:
                 echo "pagina não Definida";
                 break;
