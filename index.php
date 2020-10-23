@@ -10,13 +10,17 @@ include_once "paginas/include/header.php";
             case 'inicial':
                 include "paginas/inicial.php";
                 break;
-
-            case 'cardapio':
-                include "paginas/cardapio.php";
+                
+                case 'faleConosco':
+                    include "paginas/faleConosco.php";
                 break;
+                
+                            case 'cardapio':
+                                include "paginas/cardapio.php";
+                                break;
 
-            case 'faleConosco':
-                include "paginas/faleConosco.php";
+            case 'Cardapio':
+                include "paginas/cardapio.php";
                 break;
 
             case 'pedidos':
@@ -24,6 +28,13 @@ include_once "paginas/include/header.php";
                 break;
             case 'quemSomos':
                 include "paginas/quemSomos.php";
+                break;
+
+            case 'locais':
+                include "paginas/locais.php";
+                break;
+            case 'jaestouaqui':
+                include "paginas/aquiestou.php";
                 break;
             case 'restaurantes':
                 include "paginas/restaurantes.php";
@@ -48,5 +59,3 @@ include_once "paginas/include/header.php";
 
 // Footer
 include_once "paginas/include/footer.php";
-
-    ?>

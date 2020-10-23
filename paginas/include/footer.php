@@ -16,7 +16,7 @@
             <p>Copyright © 2018 Outback Steakhouse</p>
             <div class="row">
              <a href="index.php?pg=quemSomos"> <button>Quem Somos</button></a>
-             <a href="index.php?pg=valideQcode"><button>Já estou aqui!</button></a>
+             <a href="?pg=jaestouaqui"><button>Já estou aqui!</button></a>
              <a href="index.php?pg=faleConosco"><button>Fale Conosco</button></a>
             </div>
 
