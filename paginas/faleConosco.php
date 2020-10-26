@@ -29,10 +29,10 @@
                 </div>
                 <label for="exampleFormControlSelect1">Assunto</label>
                 <select class="form-control" id="exampleFormControlSelect1">
-                    <option>Outback Shopping Guararapes</option>
-                    <option>Outback Shopping Recife</option>
-                    <option>Outback Shopping Rio Mar</option>
-                    <option>Outback Patteo Shopping</option>
+                    <option>SHOP. INTERLAGOS</option>
+                    <option>SHOP. SP MARKET</option>
+                    <option>OUTBACK MOEMA</option>
+                    <option>SHOP. VILA OLÍMPIA</option>
                 </select>
                 <div class="form-group">
                     <label for="exampleFormControlTextarea1">Mensagem</label>
