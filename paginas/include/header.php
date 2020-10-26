@@ -23,13 +23,13 @@
                     <nav class="nav">
                         <a class="nav-link active" href="index.php?pg=inicial"><img id="logobranca" src="public/img/190PX logo branca.png" alt="Outback SteakHouse">
                         </a>
-                        <a id="links" class="nav-link" href="index.php?pg=cardapio">Cardápio</a>
-                        <a id="links" class="nav-link" href="index.php?pg=restaurantes">Restaurante</a>
+                        <a id="links" class="nav-link disabled" href="index.php?pg=cardapio">Cardápio</a>
+                        <a id="links" class="nav-link disabled" href="index.php?pg=restaurantes">Restaurante</a>
                         <a id="links" class="nav-link disabled" href="index.php?pg=faleConosco">Fale Conosco</a>
                         <a id="links" class="nav-link disabled" href="index.php?pg=quemSomos">Quem Somos</a>
                     </nav>
                 </div>
-                <div id="links" class="col-2">
+                <div id="links" class="col-2 nav-link disabled">
                     <a href="https://www.facebook.com/outbackbrasil/">
                         <i id="atom" class="Regi-facebook"></i>
                     </a>  
@@ -46,7 +46,7 @@
                         <i id="atom" class="Regi-youtube"></i>
                     </a>  
                 </div> 
-                <div class="col-3">
+                <div class="col-3 nav-link disabled">
                     <a href="index.php?pg=valideQcode" class="btn btn-secundary">
                         <i id="atom" class="Regi-man"></i>                        
                         Já estou aqui

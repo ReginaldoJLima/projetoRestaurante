@@ -13,7 +13,7 @@
             </div>  
         </div>
         <hr>
-        <form >
+        <form scr="https://whats.link/semiramiscavalcantii " >
             <div class="container">
                 <!-- pagina pedidos primeiro topico do cardapio - teste -->
                 <div class="row">
@@ -480,12 +480,13 @@
                     <!-- fim do questionario -->  
                 </div>
             </div>
-            <div class="container text-center">
-                <a href="https://whats.link/semiramiscavalcantii">
-                 <button type="submit" class="btn btn-primary">Enviar</button>
-                </a>
-            </div>
+
         </form>
+        <div class="container text-center">
+            <a href="https://whats.link/semiramiscavalcantii "><button>Enviar</button>
+            </a>
+        </div>
+                
         <hr>
         <br>
         <div class="container text-center">

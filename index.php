@@ -36,7 +36,9 @@ include_once "paginas/include/header.php";
                 break;
         }
 
-    } 
+    } else {
+        include "paginas/inicial.php";
+    }
 
     // Footer
 include_once "paginas/include/footer.php";
