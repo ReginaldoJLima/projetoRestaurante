@@ -480,7 +480,6 @@
                     <!-- fim do questionario -->  
                 </div>
             </div>
-
         </form>
         <div class="container text-center">
             <a href="https://whats.link/semiramiscavalcantii "><button>Enviar</button>
