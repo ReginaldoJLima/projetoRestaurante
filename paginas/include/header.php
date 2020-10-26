@@ -14,11 +14,20 @@
 
         <title>Projeto Restaurante</title>
     </head>
-
-
+  
     <header id="header">
         <div class="contairner"  >
             <!-- Menu Navegação -->
+            <nav class="nav">
+                <a class="nav-link active" href="index.php?pg=inicial"><img id="logobranca" src="public/img/190PX logo branca.png" alt="Outback SteakHouse">
+                </a>
+                <a id="links" class="nav-link" href="index.php?pg=restaurantes">Restaurante</a>
+                <a id="links" class="nav-link disabled" href="index.php?pg=cardapio">Cardapio</a>
+                <a id="links" class="nav-link disabled" href="index.php?pg=faleConosco">Fale Conosco</a>
+                <a id="links" class="nav-link disabled" href="index.php?pg=quemSomos">Quem Somos</a>
+                <a id="links" class="nav-link disabled" href="?pg=locais">Locais</a>
+            </nav>
+            
             <div class="row"> 
                 <div class="col-7"> 
                     <nav class="nav">
