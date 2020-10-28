@@ -8,10 +8,13 @@
 }
 
 #links {
-    margin-top: 5px;
-    text-align: center;
+    margin-top: 10px;
 }
 
 #pratos {
     width: 10px;
+}
+
+#footer {
+    background-color: coral
 }
